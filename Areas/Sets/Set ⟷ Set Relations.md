@@ -68,3 +68,39 @@ Every element of  <kbd>  SetA  </kbd>  is also part of  <kbd
 | Proper   | `⊃` | `⊅`
 
 <br>
+<br>
+
+<img
+    src = '../../Resources/Assets/Diagrams/Union.png'
+    align = right
+    width = 160
+/>
+
+## Union
+
+<br>
+<br>
+
+<img
+    src = '../../Resources/Assets/Diagrams/Intersection.png'
+    align = right
+    width = 160
+/>
+
+## Intersection
+
+<br>
+<br>
+
+<img
+    src = '../../Resources/Assets/Diagrams/Difference.png'
+    align = right
+    width = 160
+/>
+
+## Difference
+
+<br>
+<br>
+
+<br>
