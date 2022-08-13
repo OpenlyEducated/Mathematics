@@ -78,6 +78,12 @@ Every element of  <kbd>  SetA  </kbd>  is also part of  <kbd
 
 ## Union
 
+$Union = Set_{ A} \cup Set_{ B}$
+
+$\lbrace 1 , 2 \rbrace \cup \lbrace 2 , 3 \rbrace = \lbrace 1 , 2 , 3 \rbrace$
+
+Combination of the elements of both sets.
+
 <br>
 <br>
 
@@ -89,6 +95,12 @@ Every element of  <kbd>  SetA  </kbd>  is also part of  <kbd
 
 ## Intersection
 
+$Intersection = Set_{ A} \cap Set_{ B}$
+
+$\lbrace 1 , 2 \rbrace \cup \lbrace 2 , 3 \rbrace = \lbrace 2 \rbrace$
+
+Selection of elements found in both sets.
+
 <br>
 <br>
 
@@ -99,6 +111,12 @@ Every element of  <kbd>  SetA  </kbd>  is also part of  <kbd
 />
 
 ## Difference
+
+$Difference = Set_{ B} \setminus Set_{ A}$
+
+$\lbrace 2 , 3 \rbrace \setminus \lbrace 1 , 2 \rbrace = \lbrace 3 \rbrace$
+
+Elements from  <kbd>  SetB  </kbd>  that cannot be found in  <kbd>  SetA  </kbd>
 
 <br>
 <br>
