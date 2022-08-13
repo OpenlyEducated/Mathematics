@@ -121,4 +121,18 @@ Elements from  <kbd>  SetB  </kbd>  that cannot be found in �
 <br>
 <br>
 
+<img
+    src = '../../Resources/Assets/Diagrams/Symmetric%20Difference.png'
+    align = right
+    width = 160
+/>
+
+## Symmetric Difference
+
+$Symmetric Difference = Set_{ A} \bigtriangleup Set_{ B}$
+
+$\lbrace 1 , 2 \rbrace \bigtriangleup \lbrace 2 , 3 \rbrace = \lbrace 1 , 3 \rbrace$
+
+Elements found in only one of the sets.
+
 <br>
