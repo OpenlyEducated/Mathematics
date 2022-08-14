@@ -136,3 +136,12 @@ $\lbrace 1 , 2 \rbrace \bigtriangleup \lbrace 2 , 3 \rbrace�
 Elements found in only one of the sets.
 
 <br>
+<br>
+
+## De Morgan's Laws
+
+$( Set_{ A} \cup Set_{ B} )' = Set_{ A}' \cap Set_{ B}'$
+
+$( Set_{ A} \cap Set_{ B} )' = Set_{ A}' \cup Set_{ B}'$
+
+<br>
