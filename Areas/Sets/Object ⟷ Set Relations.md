@@ -15,3 +15,14 @@ $Object \notin Set$
 The  <kbd>  Object  </kbd>  isn't part of the  <kbd>  Set  </kbd>
 
 <br>
+<br>
+
+## Examples
+
+$Set_{ A} = \lbrace 1 , 2 , 3 \rbrace$
+
+$1 \in Set_{ A}$
+
+$4 \notin Set_{ A}$
+
+<br>
