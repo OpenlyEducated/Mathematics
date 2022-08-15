@@ -1,4 +1,8 @@
 
+$\definecolor{Green}{RGB}{0,169,143}$
+$\definecolor{Orange}{RGB}{244,109,1}$
+$\definecolor{Blue}{RGB}{64,174,240}$
+
 # Roaster Notation
 
 <br>
@@ -6,7 +10,7 @@
 ## Named Elements
 
 <!--  F : Roaster Notation Enumeration  -->
-$Set = \lbrace Element_{ A} , Element_{ B} , Element_{ C} \rbrace$
+$Set = \color{Blue}\lbrace \color{Green}Element_{ \color{Orange}A} \color{Blue}, \color{Green}Element_{ \color{Orange}B} \color{Blue}, \color{Green}Element_{ \color{Orange}C} \color{Blue}\rbrace$
 
 <!--  -->
 
@@ -38,3 +42,5 @@ $Set = \lbrace 0 , 1 , \cdots \rbrace$
 
 
 <br>
+
+
