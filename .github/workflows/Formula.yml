@@ -1,4 +1,4 @@
-name : Update Content Statistics
+name : Update Markdown Formulas
 
 on:
     workflow_dispatch:
@@ -25,7 +25,7 @@ jobs:
                     --importmap=Tools/Formula/Imports.json
                     Tools/Formula/.js'
                     
-            -   name : Commit generated README
+            -   name : Commit Generated README
                 uses : EndBug/add-and-commit@v9
                 with:
                     default_author : github_actor
