@@ -1,0 +1,12 @@
+
+Roaster Notation Enumeration:
+    
+    'Set = \lbrace Element_A , Element_B , Element_C \rbrace'
+
+Roaster Notation Finite Range:
+    
+    'Set = \lbrace Element_1 , \cdots , Element_100 \rbrace'
+
+Roaster Notation Infinite Range:
+    
+    'Set = \brace \cdots , Element_0 \rbrace'
