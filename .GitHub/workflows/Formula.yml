@@ -23,7 +23,7 @@ jobs:
                     --allow-read 
                     --allow-write 
                     --importmap=Tools/Formula/Imports.json
-                    Tools/Formula/.js
+                    Tools/Formula/.js'
                     
             -   name : Commit generated README
                 uses : EndBug/add-and-commit@v9
