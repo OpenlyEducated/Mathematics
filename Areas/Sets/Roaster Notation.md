@@ -10,7 +10,7 @@ $Set = \lbrace Element_{ 1} , \cdots , Element_{ 100} \rbrac
 
 
 <!--  F : Roaster Notation Infinite Range  -->
-$Set = \brace \cdots , Element_{ 0} \rbrace$
+$Set = \lbrace \cdots , Element_{ 0} \rbrace$
 
 
 <br>
