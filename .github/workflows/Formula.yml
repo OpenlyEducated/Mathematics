@@ -22,8 +22,8 @@ jobs:
                 run : 'deno run 
                     --allow-read 
                     --allow-write 
-                    --importmap=Tools/Formula/Imports.json
-                    Tools/Formula/.js'
+                    --importmap=./Tools/Formula/Imports.json
+                    ./Tools/Formula/.js'
                     
             -   name : Commit Inserted Formulas
                 uses : EndBug/add-and-commit@v9
