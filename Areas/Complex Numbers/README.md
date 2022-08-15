@@ -65,6 +65,23 @@ $\varphi = atan2 ( b , a )$
 
 ## Euler's Formula
 
-$z = r e^{ i \varphi}$
+$z = r \exp( i \varphi )$
+
+<br>
+
+1.  $\exp( +i \varphi ) = \cos{\varphi} + i \sin{\varphi}$ <br>
+2.  $\exp( -i \varphi ) = \cos{\varphi} - i \sin{\varphi}$
+
+<br>
+
+### Term 1 + 2
+
+### $\cos{\varphi} = \frac{ \exp( +i \varphi ) + \exp( -i \varphi ) }{ 2 }$
+
+<br>
+
+### Term 1 - 2
+
+### $\sin{\varphi} = \frac{ \exp( +i \varphi ) - \exp( -i \varphi ) }{ 2 i }$
 
 <br>
