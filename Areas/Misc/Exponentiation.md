@@ -172,5 +172,100 @@ $\huge x^{ a} \div x^{ b} = x^{ a - b}$
     </tr>
 </table>
 
+<br>
+
+<table>
+    <tr><th colspan = 7>$0^{ n}$</th></tr>
+    <tr>
+        <td>$\cdots$</td>
+        <td>$- 2$</td>
+        <td>$- 1$</td>
+        <td>$0$</td>
+        <td>$+ 1$</td>
+        <td>$+ 2$</td>
+        <td>$\cdots$</td>
+    </tr>
+     <tr>
+        <td>$\cdots$</td>
+        <td>$↯$</td>
+        <td>$↯$</td>
+        <td>$0$</td>
+        <td>$0$</td>
+        <td>$0$</td>
+        <td>$\cdots$</td>
+    </tr>
+</table>
+
+<br>
+
+<table>
+    <tr><th colspan = 7>$1^{ n}$</th></tr>
+    <tr>
+        <td>$\cdots$</td>
+        <td>$- 2$</td>
+        <td>$- 1$</td>
+        <td>$1$</td>
+        <td>$+ 1$</td>
+        <td>$+ 2$</td>
+        <td>$\cdots$</td>
+    </tr>
+     <tr>
+        <td>$\cdots$</td>
+        <td>$1$</td>
+        <td>$1$</td>
+        <td>$1$</td>
+        <td>$1$</td>
+        <td>$1$</td>
+        <td>$\cdots$</td>
+    </tr>
+</table>
+
+<br>
+
+<table>
+    <tr><th colspan = 7>$2^{ n}$</th></tr>
+    <tr>
+        <td>$\cdots$</td>
+        <td>$- 2$</td>
+        <td>$- 1$</td>
+        <td>$0$</td>
+        <td>$+ 1$</td>
+        <td>$+ 2$</td>
+        <td>$\cdots$</td>
+    </tr>
+     <tr>
+        <td>$\cdots$</td>
+        <td>$\frac{1}{4}$</td>
+        <td>$\frac{1}{2}$</td>
+        <td>$1$</td>
+        <td>$2$</td>
+        <td>$4$</td>
+        <td>$\cdots$</td>
+    </tr>
+</table>
+
+<br>
+
+<table>
+    <tr><th colspan = 7>$10^{ n}$</th></tr>
+    <tr>
+        <td>$\cdots$</td>
+        <td>$- 2$</td>
+        <td>$- 1$</td>
+        <td>$0$</td>
+        <td>$+ 1$</td>
+        <td>$+ 2$</td>
+        <td>$\cdots$</td>
+    </tr>
+     <tr>
+        <td>$\cdots$</td>
+        <td>$0.01$</td>
+        <td>$0.1$</td>
+        <td>$0$</td>
+        <td>$10$</td>
+        <td>$100$</td>
+        <td>$\cdots$</td>
+    </tr>
+</table>
 
 <br>
