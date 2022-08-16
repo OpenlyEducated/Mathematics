@@ -1,6 +1,13 @@
 
 # Pascal Triangle
 
+<br>
+
+$\huge \left( \begin{array}{c} row \\\\ column \end{array} \right) = \left( \begin{array}{c} n \\\\ k \end{array} \right) = \frac{n!}{k! (n - k)!}$
+
+<br>
+<br>
+
 <div align = right>
 
 <img
