@@ -1,4 +1,6 @@
 
+$\definecolor{Green}{RGB}{0,169,143}\definecolor{Orange}{RGB}{244,109,1}\definecolor{Blue}{RGB}{64,174,240}$
+
 # Factorial
 
 <br>
@@ -28,6 +30,4 @@ $\huge       = \int\limits_{0}^{\infty} x^{n} exp(-x) dx$
 
 <br>
 
-$\definecolor{Green}{RGB}{0,169,143}$
-$\definecolor{Orange}{RGB}{244,109,1}$
-$\definecolor{Blue}{RGB}{64,174,240}$
+
