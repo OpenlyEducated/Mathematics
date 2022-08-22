@@ -27,13 +27,17 @@ $\large n \geq 0$ <br>
 
 ## Expansions
 
--   $\large a^{n} - b^{n} = (a - b) * \sum{x = 0}^{n - 1} a^{k} * b^{n - 1 - k}$
+-   $\large a^{n} - b^{n} = (a - b) * \displaystyle\sum_{x = 0}^{n - 1} a^{k} * b^{n - 1 - k}$
 
-    $\large a^{2} - b^{2} = (a - b)(a^{0} * b^{1} + a^{1} * b^{0})$
-    $\large = (a - b)(a + b)$
+    <br>
+
+    $\large a^{2} - b^{2} = (a - b)(a^{0} * b^{1} + a^{1} * b^{0})$ <br>
+    $\large                    = (a - b)(a + b)$
     
-    $\large a^{3} - b^{3} = (a - b)(a^{0} * b^{2} + a^{1} * b^{1} + a^{2} * b^{0})$
-    $\large = (a - b)(a^{2} + ab + b^{2})$
+    <br>
+    
+    $\large a^{3} - b^{3} = (a - b)(a^{0} * b^{2} + a^{1} * b^{1} + a^{2} * b^{0})$ <br>
+    $\large                    = (a - b)(a^{2} + ab + b^{2})$
     
     <br>
     
