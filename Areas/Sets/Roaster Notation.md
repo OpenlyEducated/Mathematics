@@ -40,7 +40,6 @@ $Set = \lbrace \cdots , Element_{ 0} \rbrace$
 
 $Set = \lbrace 0 , 1 , \cdots \rbrace$
 
-
 <br>
 
 
