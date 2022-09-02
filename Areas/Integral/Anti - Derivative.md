@@ -5,16 +5,20 @@
 
 <kbd>  Antiderivative  </kbd>  
 <kbd>  Inverse Derivative  </kbd>  
-<kbd>  Primitive Functions  </kbd>
-
-<kbd>  Primitive Integral  </kbd>  
 <kbd>  Indefinite Integral  </kbd>
 
+<kbd>  Primitive Integral  </kbd>  
+<kbd>  Primitive Function  </kbd>
+
+<br>
 <br>
 
 </div>
 
-$Antiderivative = Integrated Function + Constant of Integration$ <br>
-$= F(x) + C$
+$\large \mathrm{Antiderivative = Integrated Function + Constant of Integration}$
+
+$\large                            = F(x) + C$
+
+$\large                            = \int f(x) \mathrm{d}x$
 
 <br>
