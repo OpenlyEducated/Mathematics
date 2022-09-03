@@ -34,6 +34,6 @@ $\displaystyle\huge\overline{\overset{\vphantom{\\\_}}{sec}}  x  \overse
 <br>
 <br>
   
-$\displaystyle\huge\overline{\overset{\vphantom{\\\_}}{csc}}  x  \overset{\normalsize{\int}}{⟶}  x \ast \overline{\overset{\vphantom{\\\_}}{scc}}  x + \ln{| x * ( 1 + \underset{\underset{                 \geq 0}{\vphantom{.}}}{\sqrt{ 1 - x^{ - 2} }} ) |} + C$
+$\displaystyle\huge\overline{\overset{\vphantom{\\\_}}{csc}}  x  \overset{\normalsize{\int}}{⟶}  x \ast \overline{\overset{\vphantom{\\\_}}{csc}}  x + \ln{| x * ( 1 + \underset{\underset{                 \geq 0}{\vphantom{.}}}{\sqrt{ 1 - x^{ - 2} }} ) |} + C$
 
 <br>
